@@ -16,16 +16,16 @@
       }
     ],
     "fetchURL": "https://docs.google.com/spreadsheets/d/1v8EhGB6yjQJLr7zACikkSH-ClCjd1M7Z38YdG3p_D90/gviz/tq?tqx=out:csv",
-    "cardsPerDay": 5,
-    "startCardIndex": 109,
+    "cardsPerDay": 50,
+    "startCardIndex": 0,
     "prevStudyDate": 1,
     "studyType": 1
   },
   {
     "name": "English Phrases",
     "fetchURL": "https://docs.google.com/spreadsheets/d/1QiEAVal-1avKVSGjtYNzz9bBOBK0POjCtIZaKxgwpUY/gviz/tq?tqx=out:csv",
-    "cardsPerDay": 3,
-    "startCardIndex": 8,
+    "cardsPerDay": 10,
+    "startCardIndex": 0,
     "prevStudyDate": 1,
     "savedCards": [
       {
